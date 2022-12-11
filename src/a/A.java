@@ -14,7 +14,10 @@ public class A {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //1er cambio: declararacion de tipos
+        int n1,n2,n3;
+        String cadena;
+        boolean encontrado=false;
     }
     
 }
